@@ -1,4 +1,4 @@
 # DSP-utility-
 
-some usefull function for digital signal processing write in console application C code
+Some usefull function for digital signal processing write C code for desktop console application 
 (example file plotted in gnuplot)
